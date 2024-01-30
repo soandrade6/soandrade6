@@ -28,6 +28,11 @@
 <p align="center">
    <img  align="center"  src="https://stats-seven-smoky.vercel.app/api/top-langs/?username=soandrade6&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20">
  </p>
+
+ <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=soandrade6&theme=tokyonight_duo&hide_border=true"
+</p>
+
   
 
 

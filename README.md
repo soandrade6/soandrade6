@@ -9,7 +9,8 @@
 ✔ Currently learning. <br>
 ✔ Python, Java and JavaScrip.<br>
 ✔ Object-oriented programming<br>
-✔ Data structures<br>
+✔ Data structures<br><br>
+
 
 ## <b> Skills and Tools</b>
 <br>
@@ -19,6 +20,7 @@
     <img src="https://skillicons.dev/icons?i=js,py,java,html,css,github,vscode&theme=dark" />
   </a>
 </p>
+<br>
 
 ## My Stats
 <br>

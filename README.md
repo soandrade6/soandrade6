@@ -1,4 +1,31 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=blue=25&center=true&vCenter=true&width=600&height=100&lines=Hi%2C%20I'm%20Sofia;"></a>
+</p>
+
+##  **About me**
+<br>
+
+
+✔ Currently learning. <br>
+✔ Python, Java and JavaScrip.<br>
+✔ Object-oriented programming<br>
+✔ Data structures<br>
+
+## <b> Skills and Tools</b>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,java,html,css,github,vscode&theme=dark" />
+  </a>
+</p>
+
+## My Stats
+
+<p align="center">
+   <img  align="center"  src="https://stats-seven-smoky.vercel.app/api/top-langs/?username=soandrade6&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20">
+ </p>
+  
+
 
 <!--
 **soandrade6/soandrade6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

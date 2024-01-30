@@ -12,6 +12,7 @@
 ✔ Data structures<br>
 
 ## <b> Skills and Tools</b>
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,6 +21,7 @@
 </p>
 
 ## My Stats
+<br>
 
 <p align="center">
    <img  align="center"  src="https://stats-seven-smoky.vercel.app/api/top-langs/?username=soandrade6&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20">

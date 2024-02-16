@@ -5,18 +5,17 @@
 ##  **About me**
 <br>
 
-I am a student of systems engineering and computer science, and I love learning new things.
+I am a student of systems engineering and a Full Stack developer.
 
-- 🔭 Currently, I'm working on developing a web application using React to strengthen my frontend skills. Additionally, I'm participating in programming competitions to improve my algorithmic skills.
-- 🌱 I’m currently learning data analysis, I'm exploring techniques and tools to manage data effectively.
-- 👯 I’m looking to collaborate on web development projects, especially those that involve frontend technologies.
+- 🔭 Currently, I'm working on improving my development skills. Additionally, I'm participating in programming competitions to improve my algorithmic skills.
+- 🌱 I’m currently learning data analysis to exploring techniques and tools to manage data effectively.
 
 ## <b> Skills and Tools</b>
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,bootstrap,mysql,git,github,vscode,idea&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nodejs,ts,bootstrap,mysql,git,github,vscode,idea&perline=7&theme=dark" />
   </a>
 </p>
 <br>
@@ -30,6 +29,16 @@ I am a student of systems engineering and computer science, and I love learning 
 -->
  <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=soandrade6&theme=tokyonight_duo&hide_border=true"
+</p>
+
+<h2 align="center">You can contact me by:</h2>
+<p align="center">  
+  <a href="www.linkedin.com/in/sofia-andrade-palacio" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="MARV" height="30">
+  </a>
+    <a href="https://www.instagram.com/s_andrade6/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="MARV" height="30">
+  </a>
 </p>
 
   

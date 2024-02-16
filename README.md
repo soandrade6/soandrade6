@@ -10,7 +10,7 @@ I am a student of systems engineering and a Full Stack developer.
 - 🔭 Currently, I'm working on improving my development skills. Additionally, I'm participating in programming competitions to improve my algorithmic skills.
 - 🌱 I’m currently learning data analysis to exploring techniques and tools to manage data effectively.
 
-## <b> Skills and Tools</b>
+## <b>Languages ​​and Tools</b>
 <br>
 
 <p align="center">

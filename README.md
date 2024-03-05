@@ -5,7 +5,7 @@
 ##  **About me**
 <br>
 
-I am a student of systems engineering and a Full Stack developer.
+I am a student of systems engineering.
 
 - 🔭 Currently, I'm working on improving my development skills. Additionally, I'm participating in programming competitions to improve my algorithmic skills.
 - 🌱 I’m currently learning data analysis to exploring techniques and tools to manage data effectively.
@@ -20,9 +20,14 @@ I am a student of systems engineering and a Full Stack developer.
 </p>
 <br>
 
-<!--
 ## My Stats
 <br>
+
+<p align="center">
+   <img  align="center"  src="https://stats-seven-smoky.vercel.app/api/top-langs/?username=soandrade6&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=21">
+ </p>
+
+<!--
 
 <p align="center">
    <img  align="center"  src="https://stats-seven-smoky.vercel.app/api/top-langs/?username=soandrade6&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20">

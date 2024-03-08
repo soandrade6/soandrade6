@@ -40,7 +40,7 @@ I am a student of systems engineering.
 
 <h2 align="center">You can contact me by:</h2>
 <p align="center">  
-  <a href="www.linkedin.com/in/sofia-andrade-palacio" target="_blank">
+  <a href="https://www.linkedin.com/in/sofia-andrade-palacio/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="MARV" height="30">
   </a>
     <a href="https://www.instagram.com/s_andrade6/" target="_blank">

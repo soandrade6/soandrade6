@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi,I'm+Sofia+Andrade"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=A476C7&center=true&vCenter=true&lines=Hi,I'm+Sofia+Andrade"></a>
 </p>
 
 ##  **About me**
@@ -15,7 +15,7 @@ I am a student of systems engineering.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nodejs,ts,bootstrap,mysql,git,github,vscode,idea&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,django,js,html,css,react,nodejs,ts,mysql,git,github,docker&theme=dark" />
   </a>
 </p>
 <br>

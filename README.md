@@ -5,8 +5,6 @@
 ##  **About me**
 <br>
 
-I am a student of systems engineering.
-
 - 🔭 Currently, I'm working on improving my development skills. Additionally, I'm participating in programming competitions to improve my algorithmic skills.
 - 🌱 I’m currently learning data analysis to exploring techniques and tools to manage data effectively.
 

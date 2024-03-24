@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,django,js,html,css,react,nodejs,ts,mysql,git,github,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,react,nodejs,ts,spring,django,mysql,git,github,docker&theme=dark" />
   </a>
 </p>
 <br>
@@ -26,15 +26,11 @@
  </p>
 
 <!--
-
-<p align="center">
-   <img  align="center"  src="https://stats-seven-smoky.vercel.app/api/top-langs/?username=soandrade6&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20">
- </p>
-
  <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=soandrade6&theme=tokyonight_duo&hide_border=true"
 </p>
--->
+--
+
 
 <h2 align="center">You can contact me by:</h2>
 <p align="center">  

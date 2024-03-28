@@ -2,13 +2,13 @@
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=A476C7&center=true&vCenter=true&lines=Hi,I'm+Sofia+Andrade"></a>
 </p>
 
-##  **About me**
+<h2 align="center">About me</h2>
 <br>
 
 - 🔭 Currently, I'm working on improving my development skills. Additionally, I'm participating in programming competitions to improve my algorithmic skills.
 - 🌱 I’m currently learning data analysis to exploring techniques and tools to manage data effectively.
 
-## <b>Languages ​​and Tools</b>
+<h2 align="center">Languages ​​and Tools</h2>
 <br>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 <br>
 
-## My Stats
+<h2 align="center">My stats</h2>
 <br>
 
 <p align="center">
@@ -29,7 +29,7 @@
  <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=soandrade6&theme=tokyonight_duo&hide_border=true"
 </p>
---
+-->
 
 
 <h2 align="center">You can contact me by:</h2>

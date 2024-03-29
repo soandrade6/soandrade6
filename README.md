@@ -8,6 +8,8 @@
 - 🔭 Currently, I'm working on improving my development skills. Additionally, I'm participating in programming competitions to improve my algorithmic skills.
 - 🌱 I’m currently learning data analysis to exploring techniques and tools to manage data effectively.
 
+<br>
+
 <h2 align="center">Languages ​​and Tools</h2>
 <br>
 

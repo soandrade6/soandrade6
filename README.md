@@ -5,9 +5,9 @@
 <h2 align="center">About me</h2>
 <br>
 
-- 🔭 Currently, I'm working on improving my development skills. Additionally, I'm participating in programming competitions to improve my algorithmic skills.
-- 🌱 I’m currently learning data analysis to exploring techniques and tools to manage data effectively.
-
+- 💬 I am a final year systems engineering student.
+- 🌱  Currently, I'm working on improving my development skills. Additionally, I'm participating in programming competitions to improve my algorithmic skills.
+ 
 <br>
 
 <h2 align="center">Languages ​​and Tools</h2>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,react,nodejs,ts,spring,django,mysql,git,github,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,angular,ts,spring,mysql,git,github&theme=dark" />
   </a>
 </p>
 <br>

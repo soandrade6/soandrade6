@@ -5,17 +5,17 @@
 <h2 align="center">About me</h2>
 <br>
 
-- 💬 I am a final year systems engineering student.
-- 🌱  Currently, I'm working on improving my development skills. Additionally, I'm participating in programming competitions to improve my algorithmic skills.
+- 💬 I am a final year systems engineering student and backend development enthusiast.
+- 🌱  Currently, I'm working on improving my development skills.
  
 <br>
 
-<h2 align="center">Languages ​​and Tools</h2>
+<h2 align="center">Languages, frameworks and technologies</h2>
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap,angular,ts,spring,mysql,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,spring,hibernate,nodejs,sequelize,angular,ts,mysql,postman,git,github&theme=dark" />
   </a>
 </p>
 <br>

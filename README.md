@@ -5,8 +5,8 @@
 <h2 align="center">About me</h2>
 <br>
 
-- 💬 I am a final year systems engineering student and backend development enthusiast.
-- 🌱  Currently, I'm working on improving my development skills.
+<P align="center">I am a final year systems engineering student and backend development enthusiast.</P>
+<P align="center">Currently, I'm working on improving my development skills.</P>
  
 <br>
 

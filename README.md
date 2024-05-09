@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=A476C7&center=true&vCenter=true&lines=Hi,I'm+Sofia+Andrade"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=fff&center=true&vCenter=true&lines=Hi,I'm+Sofia+Andrade"></a>
 </p>
 
 <h2 align="center">About me</h2>

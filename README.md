@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=fff&center=true&vCenter=true&lines=Hi,I'm+Sofia+Andrade"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&lines=Hi,I'm+Sofia"></a>
 </p>
 
 <h2 align="center">About me</h2>
 <br>
 
-<P align="center">I am a final year systems engineering student and backend development enthusiast. Right now, I'm focused on improving my development skills especially with Java.</P>
+<P align="center">I am a final year systems engineering student and backend development enthusiast. Currently, I'm focused on improving my development skills.</P>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,nodejs,sequelize,angular,ts,mysql,postman,selenium,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,nodejs,sequelize,angular,ts,mysql,postman,git,github&theme=dark" />
   </a>
 </p>
 <br>
@@ -37,10 +37,10 @@
 <p align="center">  
   <a href="https://www.linkedin.com/in/sofia-andrade-palacio/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="MARV" height="30">
-  </a>
+<!--   </a>
     <a href="https://www.instagram.com/s_andrade6/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="MARV" height="30">
-  </a>
+  </a> -->
 </p>
 
   

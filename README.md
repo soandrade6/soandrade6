@@ -5,7 +5,7 @@
 <h2 align="center">About me</h2>
 <br>
 
-<P align="center">I'm a final-year Systems Engineering student and a developer enthusiast. Currently, I am focused on enhancing my development skills, particulary with Spring Boot and Angular.</P>
+<P align="center">I'm a final-year Systems Engineering student and a software developer enthusiast. Currently, I am focused on enhancing my development skills, particulary with Spring Boot, Angular and React.</P>
 
 <br>
 

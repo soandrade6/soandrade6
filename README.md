@@ -5,7 +5,7 @@
 <h2 align="center">About me</h2>
 <br>
 
-<P align="center">I'm a final-year Systems Engineering student and a software developer enthusiast. Currently, I am focused on enhancing my development skills, particulary with Spring Boot, Angular and React.</P>
+<P align="center">I'm a final-year Systems Engineering student and an enthusiastic software developer. Currently, I am focused on enhancing my development skills and applying my knowledge in real-world projects.</P>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,spring,js,sequelize,angular,react,ts,mysql,postman,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,angular,react,mysql,postman,git,github&theme=dark" />
   </a>
 </p>
 <br>

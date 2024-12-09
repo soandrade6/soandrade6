@@ -1,20 +1,27 @@
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&lines=Hi,I'm+Sofia"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
+    <img src="https://readme-typing-svg.herokuapp.com?color=F0A7D1&center=true&vCenter=true&lines=Hi,I'm+Sofia">
+  </a>
 </p>
+
 
 <h2 align="center">About me</h2>
 <br>
 
-<P align="center">I'm a final-year Systems Engineering student and an enthusiastic software developer. Currently, I am focused on enhancing my development skills and applying my knowledge in real-world projects.</P>
+<P align="center">
+
+💻 I am currently working on the development of technologies that integrate AI solutions to solve real-world problems. I enjoy exploring how software and artificial intelligence can complement each other to create innovative applications.
+
+</P>
 
 <br>
 
-<h2 align="center">Languages, frameworks and technologies</h2>
+<h2 align="center">Some technologies</h2>
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,angular,react,mysql,postman,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,flask,java,react,tensorflow,docker,mysql,postman,git,github&theme=dark" />
   </a>
 </p>
 <br>

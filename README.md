@@ -5,18 +5,18 @@
 </p>
 
 
-<h2 align="center">About me</h2>
+<h2 align="center">About Me</h2>
 <br>
 
 <P align="center">
 
-💻 I am currently working on the development of technologies that integrate AI solutions to solve real-world problems. I enjoy exploring how software and artificial intelligence can complement each other to create innovative applications.
+I am currently working on the development of technologies that integrate AI solutions to solve real-world problems. I enjoy exploring how software and artificial intelligence can complement each other to create innovative applications. 💻 
 
 </P>
 
 <br>
 
-<h2 align="center">Some technologies</h2>
+<h2 align="center">Some Technologies</h2>
 <br>
 
 <p align="center">
@@ -41,7 +41,7 @@
 -->
 
 
-<h2 align="center">You can contact me by:</h2>
+<h2 align="center">Contact</h2>
 <p align="center">  
   <a href="https://www.linkedin.com/in/sofia-andrade-palacio/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="MARV" height="30">
